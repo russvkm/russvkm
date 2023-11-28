@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @russvkm
 - 👀 I’m interested in developing on new frame works
-- 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on android projects
+- 🌱 I’m currently Working on ARKit, MLKit, SpriteKit and SceneKit
+- 💞️ I’m looking to collaborate on android and ios projects
 - 📫 reach me at russvkm@gmail.com or shashankpandey808@gmail.com
 
 <!---
